@@ -1,5 +1,5 @@
 # 机器学习Sklearn官方指南
-机器学习sklearn实战入门指南，jupyter版本，更新中。
+机器学习sklearn官方指南，jupyter notebook整理，更新中。
 
 ## 监督学习
 ●  [线性回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_01_Linear_regression.ipynb)  
