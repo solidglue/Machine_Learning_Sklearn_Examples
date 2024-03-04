@@ -3,8 +3,8 @@
 
 ## 监督学习
 ●  [线性回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_01_Linear_regression.ipynb)  
-●  [逻辑回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_02_Logistic_regression.ipynb)  
-●  [支持向量机SVM](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_03_Svm.ipynb)  
+●  逻辑回归  
+●  支持向量机SVM 
 ●  随机梯度下降SGD  
 ●  K近邻（KNN）  
 ●  朴素贝叶斯  
