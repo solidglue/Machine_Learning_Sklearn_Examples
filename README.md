@@ -2,7 +2,7 @@
 机器学习sklearn官方指南，jupyter notebook整理，更新中。 
 
 ## 机器学习Python基础  
-●  Numpy科学计算 
+●  Numpy科学计算  
 ●  Pandas数据分析  
 ●  绘图（Matplotlib、Seaborn）    
 
