@@ -2,9 +2,10 @@
 机器学习sklearn官方指南，jupyter notebook整理，更新中。 
 
 ## 机器学习Python基础  
-●  Numpy科学计算  
-●  Pandas数据分析  
-●  绘图（Matplotlib、Seaborn）    
+●  [Numpy科学计算](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_01_Numpy_basic.ipynb)  
+●  [Pandas数据分析](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_02_Pandas_basic.ipynb)  
+●  [Matplotlib可视化](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_03_Matplotlib_basic.ipynb)    
+●  [Seaborn可视化](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_04_Seaborn_basic.ipynb)   
 
 ## 监督学习
 ●  [线性回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_01_Linear_regression.ipynb)  
