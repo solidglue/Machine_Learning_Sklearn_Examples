@@ -1,4 +1,4 @@
-# 机器学习Sklearn官方指南
+# 机器学习Sklearn入门指南
 机器学习sklearn官方指南，jupyter notebook整理，更新中。 
 
 ## 机器学习Python基础  
