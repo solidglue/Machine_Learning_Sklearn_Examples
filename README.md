@@ -1,5 +1,10 @@
 # 机器学习Sklearn官方指南
-机器学习sklearn官方指南，jupyter notebook整理，更新中。
+机器学习sklearn官方指南，jupyter notebook整理，更新中。 
+
+## 机器学习Python基础  
+●  Numpy科学计算 
+●  Pandas数据分析  
+●  绘图（Matplotlib、Seaborn）    
 
 ## 监督学习
 ●  [线性回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_01_Linear_regression.ipynb)  
