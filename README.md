@@ -41,10 +41,10 @@
 ●  随机投影  
 
 ## 数据集加载
-●  玩具数据集  
-●  真实世界数据集  
-●  生成的数据集  
-●  加载其他数据集  
+●  [玩具数据集](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/06_Dataset_loading/06_01_Toy_datasets.ipynb)  
+●  [真实世界数据集](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/06_Dataset_loading/06_02_Real_world_datasets.ipynb)  
+●  [生成的数据集](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/06_Dataset_loading/06_03_Generated%20datasets.ipynb)  
+●  [加载其他数据集](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/06_Dataset_loading/06_04_load_files.ipynb)  
 
 
 ## 模型持久化
