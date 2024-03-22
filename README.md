@@ -33,10 +33,10 @@
 ●  可视化  
 
 ## 数据集转换
-●  流水线和复合估算器  
-●  特征提取  
-●  数据预处理  
-●  缺失值补充  
+●  [流水线和复合估算器](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/05_Dataset_transformations/05_01_Pipelines_and_composite_estimators.ipynb)  
+●  [特征提取](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/05_Dataset_transformations/05_02_Feature_extraction.ipynb)  
+●  [数据预处理](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/05_Dataset_transformations/05_03_Preprocessing_data.ipynb)  
+●  [缺失值补充](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/05_Dataset_transformations/05_04_Imputation_of_missing_values.ipynb)  
 ●  无监督降维  
 ●  随机投影  
 
