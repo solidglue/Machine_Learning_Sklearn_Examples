@@ -24,8 +24,8 @@
 ●  神经网络模型（无监督）  
 
 ## 模型选择与评估
-●  交叉验证  
-●  调整估算器超参数  
+●  [交叉验证](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_01_Cross_validation.ipynb)  
+●  [调整估算器超参数](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_02_hyper_parameters_estimator.ipynb)  
 ●  指标和评分  
 ●  验证曲线：绘制分数以评估模型  
 
