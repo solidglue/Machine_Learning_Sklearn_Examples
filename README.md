@@ -26,8 +26,8 @@
 ## 模型选择与评估
 ●  [交叉验证](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_01_Cross_validation.ipynb)  
 ●  [调整估算器超参数](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_02_hyper_parameters_estimator.ipynb)  
-●  指标和评分  
-●  验证曲线：绘制分数以评估模型  
+●  [指标和评分](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_03_Metrics_and_scoring.ipynb)  
+●  [验证曲线：绘制分数以评估模型](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/03_Model_selection_and_evaluation/03_04_Validation_curves.ipynb)  
 
 ## 可视化
 ●  可视化  
