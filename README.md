@@ -4,23 +4,24 @@
 ## 机器学习Python基础  
 ●  [Numpy科学计算](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_01_Numpy_basic.ipynb)  
 ●  [Pandas数据分析](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_02_Pandas_basic.ipynb)  
-●  [Matplotlib可视化](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_03_Matplotlib_basic.ipynb)    
+●  [Matplotlib可视化](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_03_Matplotlib_basic.ipynb)   
+●  [数据探索EDA](https://github.com/solidglue/Machine_Learning_Sklearn_Examples/blob/master/00_Python_basics/00_04_EDA.ipynb)   
 
 ## 监督学习
 ●  [线性回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_01_Linear_regression.ipynb)  
-●  逻辑回归  
-●  支持向量机SVM   
+●  [逻辑回归](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_02_Logistic_regression.ipynb)  
+●  [支持向量机SVM](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_03_Svm.ipynb)   
 ●  随机梯度下降SGD  
-●  K近邻（KNN）  
+●  [K近邻（KNN）](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_05_Knn.ipynb)  
 ●  朴素贝叶斯  
-●  决策树  
-●  随机森林  
+●  [决策树](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_07_Decision_trees.ipynb)  
+●  [随机森林](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/01_Supervised_learning/01_08_Random_forests.ipynb)  
 ●  多分类与多输出  
 ●  特征选择  
 ●  神经网络  
 
 ## 无监督学习
-●  Kmeans聚类  
+●  [Kmeans聚类](https://github.com/solidglue/Machine_Learning_Sklearn_Jupyter_Demo/blob/master/02_Unsupervised_learning/02_01_Kmeans_clustering.ipynb)    
 ●  神经网络模型（无监督）  
 
 ## 模型选择与评估
