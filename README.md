@@ -72,7 +72,7 @@
 基于Goalng、Docker和微服务思想实现了高并发、高性能和高可用的推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每日可处理上千万次推理请求。   
 ● [**推荐系统推理微服务Golang**](https://github.com/solidglue/Recommender_System_Inference_Services)  
 
-4.**深度学习TensorFlow入门教程**
+4.**深度学习TensorFlow入门教程**  
 ●  [**深度学习TensorFlow入门教程**](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)  
 
 
