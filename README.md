@@ -61,7 +61,7 @@
 ## *扩展
 
 
-1.**推荐系统理论**  
+1.**推荐系统**  
 王树森推荐系统公开课 - 基于小红书的场景讲解工业界真实的推荐系统。  
 ●  [**Recommender_System**](https://github.com/solidglue/Recommender_System) 
 
