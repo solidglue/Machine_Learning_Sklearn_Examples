@@ -57,3 +57,23 @@
 ## 模型持久化
 ●  模型持久化  
 
+
+## 扩展
+
+1.**推荐系统理论**  
+王树森推荐系统公开课 - 基于小红书的场景讲解工业界真实的推荐系统。  
+●  [**Recommender_System**](https://github.com/solidglue/Recommender_System) 
+
+2.**YouTuBe推荐系统排序模型**  
+以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2训练推荐系统排序模型。  
+●  [**YouTube深度排序模型(多值embedding、多目标学习)**](https://github.com/solidglue/DNN_for_YouTube_Recommendations) 
+
+3.**推荐系统推理服务**  
+基于Goalng、Docker和微服务思想实现了高并发、高性能和高可用的推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每日可处理上千万次推理请求。   
+● [**推荐系统推理微服务Golang**](https://github.com/solidglue/Recommender_System_Inference_Services)  
+
+4.**深度学习TensorFlow入门教程**
+●  [**深度学习TensorFlow入门教程**](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)  
+
+
+
