@@ -66,7 +66,7 @@
 ●  [**Recommender_System**](https://github.com/solidglue/Recommender_System) 
 
 2.**YouTuBe推荐系统排序模型**  
-以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2训练推荐系统排序模型。  
+以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2实现推荐系统排序模型。  
 ●  [**YouTube深度排序模型(多值embedding、多目标学习)**](https://github.com/solidglue/DNN_for_YouTube_Recommendations) 
 
 3.**推荐系统推理服务**  
